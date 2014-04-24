@@ -25,8 +25,8 @@ public class Executa {
 		 /*
 		 System.out.println("VETOR DESORGANIZADO ---------------------");
 		 for (int i = 0; i < vet.length; i++) {
-            System.out.println((i + 1) + "° número: " + vet[i]);
-         }
+	            System.out.println((i + 1) + "° número: " + vet[i]);
+	         }
 		*/
 		 //Crio uma variavel numérica que armazena o horário corrente
 		 long tempoInicio = System.currentTimeMillis();
@@ -37,7 +37,7 @@ public class Executa {
 		 //Imprimo o resultado fazendo uma conta simples de subtração do tempo inicial e o tempo final.
 		 System.out.println("- Quick sort - Resultado de tempo gasto em milisegundos: "+(System.currentTimeMillis()-tempoInicio));
 
-        /**
+        	 /**
 		  * Teste de desempenho 02
 		  * Algoritmo de ordenação
 		  * Bubble sort
@@ -56,10 +56,10 @@ public class Executa {
 		 /*
 		 //Exibo o vetor Organizado
 		 System.out.println("VETOR ORGANIZADO ---------------------");
-        for (int i = 0; i < vet.length; i++) {
-            System.out.println((i + 1) + "° número: " + vet[i]);
-        }
-        */
+	        for (int i = 0; i < vet.length; i++) {
+	            System.out.println((i + 1) + "° número: " + vet[i]);
+	        }
+	        */
 
 	}
 
